@@ -1,0 +1,19 @@
+Magic Number
+MW
+asdasd
+C:\
+
+#method main
+title raw:MAGIC_NUMBER
+
+#declarevar var a 0
+#declarevar var b 0
+
+writeline raw:MAGIC_NUMBER?
+a:None = input
+b:None = var:a:None * raw:-1
+
+writeline raw:MAGICNUMBER:
+writeline var:b:None
+readkey
+#endmethod main

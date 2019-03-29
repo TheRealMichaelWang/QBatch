@@ -1,0 +1,27 @@
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\QBatch.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\QBatch.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\Components.dll
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\Components.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csprojAssemblyReference.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csproj.CopyComplete
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\QBatch.exe
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\QBatch.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\Components.dll
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug\Components.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csprojAssemblyReference.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.csproj.CopyComplete
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.exe
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\obj\Debug\QBatch.pdb
+G:\QBatch\QBatch\bin\Debug\QBatch.exe
+G:\QBatch\QBatch\bin\Debug\QBatch.pdb
+G:\QBatch\QBatch\bin\Debug\Components.dll
+G:\QBatch\QBatch\bin\Debug\Components.pdb
+G:\QBatch\QBatch\obj\Debug\QBatch.csprojAssemblyReference.cache
+G:\QBatch\QBatch\obj\Debug\QBatch.csproj.CoreCompileInputs.cache
+G:\QBatch\QBatch\obj\Debug\QBatch.csproj.CopyComplete
+G:\QBatch\QBatch\obj\Debug\QBatch.exe
+G:\QBatch\QBatch\obj\Debug\QBatch.pdb

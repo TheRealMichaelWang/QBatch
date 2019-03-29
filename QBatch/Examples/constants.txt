@@ -1,0 +1,5 @@
+#method initconstants
+#declarevar var pi 3.14159265359
+#declarevar var e 2.7182818284
+#declarevar var k 2.6854520010
+#endmethod initconstants

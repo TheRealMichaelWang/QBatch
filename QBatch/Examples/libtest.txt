@@ -1,0 +1,14 @@
+Library Importing Test
+Michael Wang
+(C) Michael Wang
+[documents]\Visual Studio 2017\Projects\QBatch\Examples
+
+#import constants.txt
+
+#method main
+call initconstants
+writeline var:pi:None
+writeline var:e:None
+writeline var:k:None
+readkey
+#endmethod main

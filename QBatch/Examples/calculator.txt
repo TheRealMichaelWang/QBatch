@@ -1,0 +1,62 @@
+Calculator
+Michael Wang
+(C) QBATCH
+C:\
+
+#method main
+#declarevar var a 0
+#declarevar var b 0
+#declarevar var c 0
+#declarevar var input 0
+#declarevar var done false
+
+title raw:Calculator
+
+while var:done:None != raw:true
+call mainloop
+
+#endmethod main
+
+
+#method mainloop
+call getinput
+writeline raw:What_Would_You_Like_To_Do?
+input:None = input
+if var:input:None == raw:exit
+done:None = raw:true
+
+if var:input:tolower == raw:add
+c:None = var:a:None + var:b:None
+
+if var:input:tolower == raw:subtract
+c:None = var:a:None - var:b:None
+
+if var:input:tolower == raw:multiply
+c:None = var:a:None * var:b:None
+
+if var:input:tolower == raw:divide
+c:None = var:a:None / var:b:None
+
+if var:input:tolower == raw:help
+call printhelp
+
+if var:input:tolower == raw:cls
+consoleclear
+
+writeline raw:The_answer_is
+writeline var:c:None
+#endmethod mainloop
+
+#method getinput
+writeline raw:A_Value?
+a:None = input
+writeline raw:B_Value?
+b:None = input
+#endmethod getinput
+
+#method printhelp
+writeline raw:ADD_______Adds A and B
+writeline raw:SUBTRACT__Subtracts A and B
+writeline raw:MULTIPLYU_Multiplys A and B
+writeline raw:DIVIDE____Divides A and B
+#endmethod printhelp

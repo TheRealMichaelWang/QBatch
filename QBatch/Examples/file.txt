@@ -1,0 +1,16 @@
+File Testing
+Michael Wang
+(C) QBATCH
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\QBatch\bin\Debug
+
+#method main
+#declarevar var path 0
+writeline raw:File_Path?
+path:None = input
+mkfile var:path:None
+filewrite var:path:None raw:Hello_World
+#declarevar var contents 0
+contents:None = readfile var:path:None
+writeline var:contents:None
+readkey
+#endmethod main

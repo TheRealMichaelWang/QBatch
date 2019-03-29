@@ -1,0 +1,37 @@
+Whats 1 + 1
+Michael Wang
+(C) QBATCH
+C:\
+
+#method main
+#declarevar var ans null
+title raw:Test_Program
+while true
+call mainloop
+#endmethod main
+
+#method mainloop
+writeline raw:what_is_1+1?
+ans:None = input
+
+if var:ans:None != int
+call not_an_int
+
+if var:ans:None == raw:2
+call correct
+
+if var:ans:None != raw:2
+call incorrect
+#endmethod mainloop
+
+#method correct
+writeline raw:You_are_correct
+#endmethod correct
+
+#method incorrect
+writeline raw:You_are_incorrect
+#endmethod incorrect
+
+#method not_an_int
+writeline raw:That's_not_a_number
+#endmethod not_an_int

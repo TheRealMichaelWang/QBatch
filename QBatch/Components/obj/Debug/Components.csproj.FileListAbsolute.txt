@@ -1,0 +1,18 @@
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\bin\Debug\Components.dll
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\bin\Debug\Components.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.dll
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\bin\Debug\Components.dll
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\bin\Debug\Components.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.dll
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.pdb
+G:\QBatch\Components\bin\Debug\Components.dll
+G:\QBatch\Components\bin\Debug\Components.pdb
+G:\QBatch\Components\obj\Debug\Components.csprojAssemblyReference.cache
+G:\QBatch\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+G:\QBatch\Components\obj\Debug\Components.dll
+G:\QBatch\Components\obj\Debug\Components.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csprojAssemblyReference.cache
