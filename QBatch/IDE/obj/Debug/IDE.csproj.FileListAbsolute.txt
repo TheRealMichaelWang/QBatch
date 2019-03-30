@@ -26,14 +26,11 @@ G:\QBatch\IDE\obj\Debug\IDE.exe
 G:\QBatch\IDE\obj\Debug\IDE.pdb
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\bin\Debug\IDE.exe
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\bin\Debug\IDE.pdb
-C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\bin\Debug\Components.dll
-C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\bin\Debug\Components.pdb
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.csprojAssemblyReference.cache
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.Main.resources
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.Prompt.resources
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.Properties.Resources.resources
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.csproj.GenerateResource.cache
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.csproj.CoreCompileInputs.cache
-C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.csproj.CopyComplete
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.exe
 C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\IDE\obj\Debug\IDE.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -43,10 +44,12 @@ namespace QBatch
                     Console.WriteLine("RUN                  Runs all the lines of code.");
                     Console.WriteLine("CLEAR                Clears all the lines of code.");
                     Console.WriteLine("CD                   Sets the working directory for the program.");
+                    Console.WriteLine("IDE                  Opens the QBATCH Integrated Development Environment.");
                     Console.WriteLine("DEBUG ON             Turns debugging on.");
                     Console.WriteLine("DEBUG OFF            Turns debugging off.");
                     Console.WriteLine("BREAKPOINT           Adds or removes a breakpoint.");
                     Console.WriteLine("CLT                  Clears the terminal.");
+                    Console.WriteLine("EXIT                 Exits the QBATCH Interpreter.");
                 }
                 else if (input == "run")
                 {
@@ -134,6 +137,21 @@ namespace QBatch
                 {
                     Console.Clear();
                 }
+                else if(input == "ide")
+                {
+                    try
+                    {
+                        Process.Start(Environment.CurrentDirectory + "\\IDE.exe");
+                    }
+                    catch
+                    {
+                        Console.WriteLine("QBATCH Integrated Development Environment is missing.");
+                    }
+                }
+                else if(input == "exit")
+                {
+                    Process.GetCurrentProcess().Kill();
+                }
                 else
                 {
                     lines.Add(input);
@@ -200,12 +218,12 @@ namespace QBatch
                     Console.WriteLine("No Assembly Bindings were detected!\nThis isn't a QBatch batch file executable program. QBATCH assembly information wasn't found. If you wrote the program using QBATCH IDE, consider pressing the MakeASM button. Otheerwise if you are sure this is a QBATCH program, this program may be a library To use a library, use #import to access its methods.\nFile Path: "+args[0]+ "\n\nPress ANY KEY to exit...");
                     Console.ReadKey();
                 }
-                Console.ForegroundColor = ConsoleColor.White;
             }
             else
             {
                 ConsoleInterface();
             }
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

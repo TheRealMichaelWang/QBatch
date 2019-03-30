@@ -15,4 +15,3 @@ G:\QBatch\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
 G:\QBatch\Components\obj\Debug\Components.dll
 G:\QBatch\Components\obj\Debug\Components.pdb
 C:\Users\MichaelWang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csprojAssemblyReference.cache
-C:\Users\Michael Wang\Documents\Visual Studio 2017\Projects\QBatch\Components\obj\Debug\Components.csprojAssemblyReference.cache
